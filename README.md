@@ -8,9 +8,8 @@ Live: https://huggingface.co/spaces/Re1e9/Flower_Classification_using_InceptionV
 For all files, visit: https://huggingface.co/spaces/Re1e9/Flower_Classification_using_InceptionV3/tree/main
 </br>
 
-![Screenshot](https://github.com/styxOO7/iConnect-Web-App/blob/master/c4.png)
 
 </br>
-![Screenshot](https://github.com/styxOO7/Flower-Classification-using-InceptionV3-/blob/main/Screenshot%202023-02-06%20012334.png)
+![Screenshot](Screenshot 2023-02-06 012334.png)
 </br>
 
