@@ -3,17 +3,16 @@ A Flower Classification Project using pre trained model - InceptionV3 with 78 % 
 </br>
 
 Live: https://huggingface.co/spaces/Re1e9/Flower_Classification_using_InceptionV3
-</br>
 
 </br>
 For all files, visit: https://huggingface.co/spaces/Re1e9/Flower_Classification_using_InceptionV3/tree/main
 </br>
 
 </br>
-![Image](https://user-images.githubusercontent.com/85895343/216840993-e18065b6-38d6-4024-9124-d7e1172017ea.png)
+![Screenshot](https://user-images.githubusercontent.com/85895343/216840993-e18065b6-38d6-4024-9124-d7e1172017ea.png)
 </br>
 
 </br>
-![Image](https://user-images.githubusercontent.com/85895343/216840943-87f4f7e3-765d-4240-a903-eee0cd5ec9ea.png)
+![Screenshot](https://user-images.githubusercontent.com/85895343/216840943-87f4f7e3-765d-4240-a903-eee0cd5ec9ea.png)
 </br>
 
