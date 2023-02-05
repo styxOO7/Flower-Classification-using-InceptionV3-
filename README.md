@@ -11,6 +11,6 @@ For all files, visit: https://huggingface.co/spaces/Re1e9/Flower_Classification_
 
 
 </br>
-![A test image](https://user-images.githubusercontent.com/85895343/216841389-82ba8bfb-fd26-4e28-bdb4-a1d494e83632.png)
+![Screenshot](https://github.com/styxOO7/Flower-Classification-using-InceptionV3-/blob/main/Screenshot%202023-02-06%20012334.png)
 </br>
 
