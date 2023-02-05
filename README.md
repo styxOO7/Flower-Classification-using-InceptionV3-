@@ -11,6 +11,6 @@ For all files, visit: https://huggingface.co/spaces/Re1e9/Flower_Classification_
 
 
 </br>
-![image](https://user-images.githubusercontent.com/85895343/216840943-87f4f7e3-765d-4240-a903-eee0cd5ec9ea.png)
+![A test image](https://user-images.githubusercontent.com/85895343/216841389-82ba8bfb-fd26-4e28-bdb4-a1d494e83632.png)
 </br>
 
