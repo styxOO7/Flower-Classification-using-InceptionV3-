@@ -1,10 +1,12 @@
 # Flower-Classification-using-InceptionV3-
 A Flower Classification Project using pre trained model - InceptionV3 with 78 % accuracy which classifies five different types of flowers. It has been deployed on HuggingFace platform using Gradio Library for webpage.
+</br>
+
 Live: https://huggingface.co/spaces/Re1e9/Flower_Classification_using_InceptionV3
 </br>
 
 </br>
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/85895343/216840993-e18065b6-38d6-4024-9124-d7e1172017ea.png)
 </br>
 
 </br>
