@@ -10,6 +10,6 @@ For all files, visit: https://huggingface.co/spaces/Re1e9/Flower_Classification_
 
 
 </br>
-![Screenshot](Screenshot 2023-02-06 012334.png)
+![Screenshot](https://github.com/styxOO7/Flower-Classification-using-InceptionV3-/blob/main/c.png)
 </br>
 
